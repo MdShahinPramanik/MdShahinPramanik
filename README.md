@@ -1,14 +1,17 @@
 ![Shahin Banner](https://github.com/MdShahinPramanik/MdShahinPramanik/blob/main/shahin%20banner.gif?raw=true)
 
-<h3 align="center">Hi there 👋, I am Shahin</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&weight=700&duration=3000&pause=1000&color=F4D03F&center=true&vCenter=true&repeat=false&width=600&lines=Hi+there+👋,+I+am+Shahin" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&weight=700&pause=1000&color=F4D03F&center=true&vCenter=true&width=750&height=70&prefix=Hi+there+👋,+I+am+Shahin.+&lines=I+am+a+Mobile+Application+Developer.;I+am+a+Web+Developer.;I+am+a+Programmer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&weight=700&pause=1000&color=F4D03F&center=true&vCenter=true&width=750&height=70&prefix=Hi+there+👋,+I+am+Shahin.+&lines=I+am+a+Mobile+Application+Developer.;I+am+a+Web+Developer.;I+am+a+Programmer." alt="Typing SVG" />
   </a>
 </div>
 

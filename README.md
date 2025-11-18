@@ -80,4 +80,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShahinPramanik&theme=react-dark" alt="MdShahinPramanik's Activity Graph" />
 </p>
 
+---
+<h3 align="left">📍 My Location</h3>
+
+<p align="left">
+  <a href="https://www.google.com/maps?q=Banaras+Hindu+University,+Varanasi" target="_blank">
+    <img src="https://raw.githubusercontent.com/khatri/github-readme-location-box/master/assets/map_banner.png" alt="Banaras Hindu University Map" width="100%" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Location:</b> Banaras Hindu University (BHU), Varanasi, India 🇮🇳
+</p>
 

@@ -93,7 +93,7 @@
 
 <p align="left">
   <a href="https://www.google.com/maps?q=Banaras+Hindu+University,+Varanasi" target="_blank">
-   <img width="1010" height="635" alt="Image" src="https://github.com/user-attachments/assets/aaf2075f-b805-4998-831f-27431627f7c4" />
+   <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/aaf2075f-b805-4998-831f-27431627f7c4" />
   </a>
 </p>
 

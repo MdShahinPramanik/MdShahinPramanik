@@ -1,7 +1,18 @@
 ![Shahin Banner](https://github.com/MdShahinPramanik/MdShahinPramanik/blob/main/shahin%20banner.gif?raw=true)
 
 <h3 align="center">Hi there 👋, I am Shahin</h3>
-<h4 align="center">I am a Mobile Application Developer, Web Developer, and Programmer.</h4>
+
+
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&weight=700&pause=1000&color=F4D03F&center=true&vCenter=true&width=750&height=70&prefix=Hi+there+👋,+I+am+Shahin.+&lines=I+am+a+Mobile+Application+Developer.;I+am+a+Web+Developer.;I+am+a+Programmer." alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 <p align="center">
  "I am a student of the Computer Science Department at Banaras Hindu University."

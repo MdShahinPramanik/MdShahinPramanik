@@ -46,24 +46,24 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats & Activity</h3>
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MdShahinPramanik&show_icons=true&theme=radical&count_private=true" alt="MdShahinPramanik's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MdShahinPramanik&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShahinPramanik&theme=radical" alt="Top Languages" />
 </a>
 
 <br><br>
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdShahinPramanik&theme=radical" alt="MdShahinPramanik's Streak" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShahinPramanik&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdShahinPramanik&theme=radical" alt="Streak" />
 </a>
 
 </div>
@@ -75,3 +75,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MdShahinPramanik&theme=radical&no-frame=true&column=7" alt="Trophy" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShahinPramanik&theme=react-dark" alt="MdShahinPramanik's Activity Graph" />
+</p>
+
+

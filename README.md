@@ -1,6 +1,8 @@
+
+(https://github.com/MdShahinPramanik/MdShahinPramanik/blob/main/shahin%20banner.gif)
 ### Hi there 👋, I am Shahin
 #### I am Mobile application developer, Web developer and Programmer.
-![I am Mobile application developer, Web developer and Programmer.](https://github.com/MdShahinPramanik/MdShahinPramanik/blob/main/shahin%20banner.gif)
+![I am Mobile application developer, Web developer and Programmer.]
 
 ​"I am a student of the Computer Science Department at Banaras Hindu University."
 

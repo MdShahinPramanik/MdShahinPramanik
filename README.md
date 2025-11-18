@@ -46,6 +46,14 @@
 
 ---
 
+<b> 
+ <p align="left">
+  # For emergency contact: 
+  <a href="https://wa.me/918981391852" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" style="vertical-align: middle;" />
+  </a>  (Call me)
+</p>
+
 <h3 align="center">GitHub Stats & Activity</h3>
 
 <div align="center">
